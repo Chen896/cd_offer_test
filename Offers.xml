@@ -1,0 +1,22 @@
+            <OfferPackage Name="accountid_87_20201022_140117" PurgeAndReplace="false" PackageType="Full" xmlns="clr-namespace:Cdiscount.Service.OfferIntegration.Pivot;assembly=Cdiscount.Service.OfferIntegration" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+                <OfferPackage.Offers>
+                    <OfferCollection Capacity="1">
+                        <Offer SellerProductId="2020_HEN1618200096611" ProductEan="2008155102127" ProductCondition="6" Price="47.49" Stock="5" EcoPart="0.0000" DeaTax="0.0000" Vat="0.0000" PreparationTime="3">
+<Offer.ShippingInformationList><ShippingInformationList Capacity="3"><ShippingInformation AdditionalShippingCharges="0.00" DeliveryMode="Tracked" ShippingCharges="0.00" />
+<ShippingInformation AdditionalShippingCharges="9.99" DeliveryMode="Registered" ShippingCharges="12.99" />
+<ShippingInformation AdditionalShippingCharges="999.00" DeliveryMode="Express" ShippingCharges="999.00" />
+</ShippingInformationList></Offer.ShippingInformationList><Offer.PriceAndDiscountList>
+<DiscountComponentList Capacity="1">
+<DiscountComponent Type="1" StartDate="2020-10-22T06:01:17" EndDate="2020-10-25T06:01:17" DiscountValue="5" DiscountUnit="1" />
+</DiscountComponentList>
+</Offer.PriceAndDiscountList>
+</Offer>
+
+                    </OfferCollection>
+                </OfferPackage.Offers>
+                <OfferPackage.OfferPublicationList>
+                    <OfferPublicationList Capacity="1">
+                        <PublicationPool Id="1" />
+                    </OfferPublicationList>
+                </OfferPackage.OfferPublicationList>
+            </OfferPackage>
